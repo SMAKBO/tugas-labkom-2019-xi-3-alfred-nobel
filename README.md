@@ -7,4 +7,4 @@ tugas-labkom-2019-xi-3-alfred-nobel created by GitHub Classroom
 5. Reza Alvandani 17.63.08801
 6. Sekar Briani Sauzan 17.63.08817
 7. Siti Syahda H. 17.63.08824
-8. Kevin Aditya Cemerlang 17.63.08
+8. Kevin Aditya Cemerlang 17.63.08686
